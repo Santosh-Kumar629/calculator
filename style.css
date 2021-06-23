@@ -1,0 +1,25 @@
+table{
+	font-family:arial;
+	background-color:rgb(104, 96, 175);
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+	border-left: 20px;
+	border: 2px;
+	padding: 10px 10px;
+	color: #4CAF50;
+
+}
+td{
+	width: 80px;
+	height: 30px;
+	text-align: center;
+	font-size: xx-large;
+
+}
+tr{
+	width:10px;
+	height:20px;
+
+}
